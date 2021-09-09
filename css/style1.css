@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lora:ital@1&display=swap');
 body{
-    width: 60%;
+    width: 100%;
     margin: auto;
 }
 
@@ -23,13 +23,19 @@ body{
 .navbar .container-fluid span{
     color: white;
 }
-.padding{
-    width: 90%;
+.slides{
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.slides .col-12{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .col-12 img{
     
-    width: 80%;
+    width: 100%;
 }
 .social a {
 	font-size: 48px;
